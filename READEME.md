@@ -1,4 +1,4 @@
-# 🎡 Real-Time Multiplayer Spin Wheel Game (MERN)
+# Real-Time Multiplayer Spin Wheel Game (MERN)
 
 ## Overview
 This project is a real-time multiplayer spin wheel game built using the MERN stack.
